@@ -1819,6 +1819,83 @@ http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/1063.m3u8
 #EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
 http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/1263.m3u8
 
+#EXTM3U
+#EXTINF:-1,B1
+http://5.255.90.252:5004/play/a064
+#EXTINF:-1,CBS Reality
+http://5.255.90.252:5004/play/a05g
+#EXTINF:-1,Cinemax
+http://5.255.90.252:5004/play/a059
+#EXTINF:-1,DIGI Sport 2
+http://5.255.90.252:5004/play/a066
+#EXTINF:-1,DIGI Sport 3
+http://5.255.90.252:5004/play/a06v
+#EXTINF:-1,DIGI Sport 4
+http://5.255.90.252:5004/play/a065
+#EXTINF:-1,Discovery RO
+http://5.255.90.252:5004/play/a087
+#EXTINF:-1,Disney Channel
+http://5.255.90.252:5004/play/a069
+#EXTINF:-1,Disney Junior
+http://5.255.90.252:5004/play/a06z
+#EXTINF:-1,Diva Universal
+http://5.255.90.252:5004/play/a058
+#EXTINF:-1,Etno
+http://5.255.90.252:5004/play/a073
+#EXTINF:-1,Eurosport Int
+http://5.255.90.252:5004/play/a068
+#EXTINF:-1,HBO 3 RO
+http://5.255.90.252:5004/play/a06c
+#EXTINF:-1,HBO Romania
+http://5.255.90.252:5004/play/a05a
+#EXTINF:-1,KISS TV
+http://5.255.90.252:5004/play/a06b
+#EXTINF:-1,LookTV
+http://5.255.90.252:5004/play/a074
+#EXTINF:-1,Mezzo
+http://5.255.90.252:5004/play/a083
+#EXTINF:-1,Minimax
+http://5.255.90.252:5004/play/a06a
+#EXTINF:-1,Mozi+
+http://5.255.90.252:5004/play/a088
+#EXTINF:-1,Music Channel
+http://5.255.90.252:5004/play/a06u
+#EXTINF:-1,NG Wild RO
+http://5.255.90.252:5004/play/a075
+#EXTINF:-1,National Geographic RO
+http://5.255.90.252:5004/play/a06d
+#EXTINF:-1,National TV
+http://5.255.90.252:5004/play/a072
+#EXTINF:-1,Neptun TV
+http://5.255.90.252:5004/play/a05k
+#EXTINF:-1,Pax TV
+http://5.255.90.252:5004/play/a086
+#EXTINF:-1,Prima
+http://5.255.90.252:5004/play/a081
+#EXTINF:-1,Prima
+http://5.255.90.252:5004/play/a062
+#EXTINF:-1,Pro Tv
+http://5.255.90.252:5004/play/a057
+#EXTINF:-1,Realitatea
+http://5.255.90.252:5004/play/a063
+#EXTINF:-1,SuperOne
+http://5.255.90.252:5004/play/a05h
+#EXTINF:-1,TV 1000
+http://5.255.90.252:5004/play/a05j
+#EXTINF:-1,TV H
+http://5.255.90.252:5004/play/a085
+#EXTINF:-1,TVR 1
+http://5.255.90.252:5004/play/a061
+#EXTINF:-1,Taraf Tv
+http://5.255.90.252:5004/play/a06w
+#EXTINF:-1,U tv
+http://5.255.90.252:5004/play/a084
+#EXTINF:-1,U tv
+http://5.255.90.252:5004/play/a067
+#EXTINF:-1,Viasat Explore
+http://5.255.90.252:5004/play/a082
+#EXTINF:-1,Viasat History
+http://5.255.90.252:5004/play/a05i
 
 
 
