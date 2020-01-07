@@ -17,10 +17,6 @@ http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m
  
 #EXTINF:-1,story cartoon
 https://drive.google.com/uc?id=1Jb5P6AkIEaUXh_huB6GqTqTLtrsEQdIJ
-
-
-
-
  
 #EXTINF:-1,HUM TV
 http://stream.tapmad.com:1935/pitvlive2/humtvnew3/chunklist_w1578022185.m3u8?
@@ -33,6 +29,59 @@ http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks
  
 #EXTINF:-1,Silver Jewelry Sale
 https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+--------pakistan new--------
+#EXTINF:-1,92 News (Opt-1)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1,92 News (Opt-2)
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+#EXTINF:-1,Canada One (CA)
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1,Dunya News (Opt-1)
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+#EXTINF:-1,Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+#EXTINF:-1,Geo Kahani
+http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8
+#EXTINF:-1,Geo News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:-1,Geo Tez
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8
+#EXTINF:-1,Geo TV (Opt-1)
+http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
+#EXTINF:-1,Geo TV (Opt-2)
+http://streamer64.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8
+#EXTINF:-1,Kay 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+#EXTINF:-1,Khyber Middle East
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
+#EXTINF:-1,Khyber News
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+#EXTINF:-1,Lahore News (Opt-1)
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:-1,Lahore News (Opt-2)
+http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
+#EXTINF:-1,Prime Canada TV (CA)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1,Sahar Urdu (IR)
+https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Shrrang TV
+http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
+#EXTINF:-1,Subrang TV (US) (Opt-1)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,Subrang TV (US) (Opt-2)
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,Tag TV (Opt-1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1,Tag TV (Opt-2)
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:-1,Toronto 360 TV (CA)
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1,Urdu TV Toronto (CA)
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+
+-------------------------------
+
  
 #EXTINF:0,92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
