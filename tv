@@ -3,29 +3,7 @@
 #EXTINF:-1, HD HUM TV
 http://ccdn2.jazztv.pk:8085/cast/136-3M/chunks.m3u8
  
-#EXTINF:-1,HUM TV 2
-#EXT-X-STREAM-INF:BANDWIDTH=584916,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
-http://stream.tapmad.com:1935/pitvlive2/humtvnew3/chunklist_w1578022185.m3u8??userid=028b4a59-ca80-492e-8000-3e56e2b273d3-1561561595672
- 
-#EXTINF:-1, Geo Super
-http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks.m3u8?
- 
- #EXTM3U
-#EXTINF:-1,Geo Entertainment2
-#EXT-X-STREAM-INF:BANDWIDTH=584916,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
-http://streamer64.ebound.tv/geo/geoentertainment/chunks.m3u8?nimblesessionid=385476564
 
-
-#EXTINF:-1,Geo Entertainment
-
-#EXT-X-STREAM-INF:BANDWIDTH=584916,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
-http://streamer62.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8?
-
- 
-#EXTINF:-1,Geo_Kahani
-
-#EXT-X-STREAM-INF:BANDWIDTH=584916,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
-http://streamer61.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/chunks.m3u8?
  
 #EXTINF:-1, Geo Super
 http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks.m3u8?
