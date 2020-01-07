@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1, HD HUM TV
+http://ccdn2.jazztv.pk:8085/cast/136-3M/chunks.m3u8
+
 #EXTINF:-1,Geo Entertainment
 http://streamer62.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8?
  
@@ -14,8 +18,7 @@ http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m
 #EXTINF:-1,story cartoon
 https://drive.google.com/uc?id=1Jb5P6AkIEaUXh_huB6GqTqTLtrsEQdIJ
 
-#EXTINF:-1, HD HUM TV
-http://ccdn2.jazztv.pk:8085/cast/136-3M/chunks.m3u8
+
 
 
  
