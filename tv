@@ -37,7 +37,7 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 #EXTINF:-1 ,ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 ,BabyFirst臺灣
+#EXTINF:-1 ,BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 ,Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
@@ -115,9 +115,9 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.news.taichung.gov.tw/media/276006/%E5%A4%A7%E5%AE%B6%E8%AA%AA%E8%8B%B1%E8%AA%9E-logo-180x80.jpg" tvg-country="TW" tvg-url="" group-title="Kids",空中英語教室
 http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
-#EXTINF:-1 ,靖天卡通
+#EXTINF:-1 ,chin
 http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1,靖洋卡通
+#EXTINF:-1,chin
 http://61.58.60.230:9319/live/206.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040645_77060.jpg" tvg-country="HK" tvg-url="" group-title="Kids",靖洋卡通 / Nice Bingo
 http://61.58.60.230:9319/live/206.m3u8
