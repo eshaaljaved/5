@@ -1,7 +1,25 @@
+#EXTM3U
 #EXTINF:-1,QVC 1
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
 #EXTINF:-1,QVC 2
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
 #EXTINF:-1,QVC 3
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+  ========OLYMPICS======
 
+#EXTINF:-1 " group-title="24/7 OLYMPICS",Olympic Channel 1 (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+ 
+#EXTINF:-1 " group-title="24/7 OLYMPICS",Olympic Channel 1 (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+ 
+#EXTINF:-1 " group-title="24/7 OLYMPICS",Olympic Channel 1 (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+
+
+
+
+
+
+==================================================
