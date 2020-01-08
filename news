@@ -121,10 +121,6 @@ http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
 http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream/chunks.m3u8
 #EXTINF:-1,DESI CHANNEL
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1,5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
-#EXTINF:-1,PUNJAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 #EXTINF:-1,FASTWAY TV
 http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1,LIFE PUNJABI
@@ -133,7 +129,7 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(01)/index.m3u8
 #EXTINF:-1,MASTI TV
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist_b300000.m3u8
-#EXTINF:-1, MASTI TV
+#EXTINF:-1,2 MASTI TV
 http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
 #EXTINF:-1, B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
