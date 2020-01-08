@@ -5,7 +5,8 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_inde
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
 #EXTINF:-1,QVC 3
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
-  ========OLYMPICS======
+
+========OLYMPICS======
 
 #EXTINF:-1 " group-title="24/7 OLYMPICS",Olympic Channel 1 (SD)
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
@@ -16,10 +17,176 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 " group-title="24/7 OLYMPICS",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
-
-
-
-
-
-
 ==================================================
+========india======
+#EXTINF:-1, INDIA TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
+#EXTINF:-1,INDIA NEWS
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,ZEE NEWS
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
+#EXTINF:-1,FASTWAY NEWS
+http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
+#EXTINF:-1,DELHI AAJ TAK
+https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
+#EXTINF:-1, AAJ TAK
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w668703369_b150000.m3u8
+#EXTINF:-1,AAJ TAK
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
+#EXTINF:-1,TEZ
+https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live1/chunks.m3u8
+#EXTINF:-1,TV100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist_w1840712472.m3u8
+#EXTINF:-1, NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1,WORLD PUNJABI TV
+http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
+#EXTINF:-1,SPARK TV
+http://skystar.livebox.co.in/skystarhls/live.m3u8
+#EXTINF:-1, AAHOO TV
+https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:-1,PUNJABI
+http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEATBOX TV
+http://yourside.live-s.cdn.bitgravity.com/cdn-live/_definst_/yourside/live/BeatBoxTV.smil/playlist.m3u8
+#EXTINF:-1,TV 84
+http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
+#EXTINF:-1, SADA TV
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1,AONE MUSIC
+https://5c75277727cd1.streamlock.net/aonemusic/aonemusic/playlist.m3u8
+#EXTINF:-1,AONE TV
+http://95.216.226.165:1935/aonetv/aonetv/chunklist_w1198337982.m3u8
+#EXTINF:-1,PBN MUSIC
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+#EXTINF:-1,B4U MASTI
+http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SABRANG TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,HULCHUL TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1,AAHOO MUSIC
+https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:-1, TANGY PUNJABI TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
+#EXTINF:-1, PRIME HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+#EXTINF:-1,GURBANI HEALING
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1,POP PATAKA
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_378_av-p.m3u8
+#EXTINF:-1,PUNJABI TADKA
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1,HAMDARD TV
+http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TRUCKING TV
+http://trucking-today.selfip.net/TRUCKING_TODAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ANKHILA PUNJAB
+http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
+#EXTINF:-1,9X TASHAN
+http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:-1,JHANJAR MUSIC
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,JHANJAR HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1,SHAN PUNJABI TV
+http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
+#EXTINF:-1,PUNJAB TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
+#EXTINF:-1,SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1,PRIME CANADA TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1,SARDARI TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1,TV PUNJAB
+http://cdn.samtv.ca/tvpunjab/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TORRONTO 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1,TORRONTO 16
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1,STEELBIRD MUSIC
+http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8
+#EXTINF:-1,PUNJABI ZINDABAAD
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WAH PUNJABI
+http://live.agmediachandigarh.com/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/index.m3u8
+#EXTINF:-1,DESI PLUS
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1, GUBRU TV
+https://livetv.gabruu.com/live/mgabruutv.m3u8
+#EXTINF:-1,PITAARA TV
+http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
+#EXTINF:-1,GAUNDA PUNJAB
+http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream/chunks.m3u8
+#EXTINF:-1,DESI CHANNEL
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1,5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
+#EXTINF:-1,PUNJAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
+#EXTINF:-1,FASTWAY TV
+http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
+#EXTINF:-1,LIFE PUNJABI
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1, WOW MUSIC
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(01)/index.m3u8
+#EXTINF:-1,MASTI TV
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist_b300000.m3u8
+#EXTINF:-1, MASTI TV
+http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
+#EXTINF:-1, B4U MUSIC
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1, ZING
+http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
+#EXTINF:-1, B4U MUSIC
+https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&dw=7200&b=100-2500&rebase=on
+#EXTINF:-1, NTV
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1, B4U PLUS
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1, CINE MOVIES
+http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
+#EXTINF:-1, SHEMAROO PUNJABI TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1,SHEMAROO HINDI
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1, MBC BOLLYWOOD
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1,AND PICTURES HD
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:-1, And TV
+http://pockettv.xyz/api/zee.m3u8?c=andtvsd
+#EXTINF:-1, And TV
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+#EXTINF:-1, B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1,B4U MOVIES
+http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:-1, CINEMA TV
+http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1, ZEE AFLAM
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1, ZEE ACTION
+http://pockettv.xyz/api/zee.m3u8?c=action
+#EXTINF:-1, ZEE BOLLYWOOD
+http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:-1, ZEE TV HD
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:-1, ZEE TV
+http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
+#EXTINF:-1, Z LIVING USA
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1, ZEE CINEMA HD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+#EXTINF:-1, ZEE ANMOL CINEMA
+http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
+#EXTINF:-1, SPORT MAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1, DSPORTS
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
+#EXTINF:-1, WATAN HD
+http://51.15.242.185/hls/stream.m3u8
+=======================
