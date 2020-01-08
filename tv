@@ -1888,10 +1888,7 @@ http://5.255.90.252:5004/play/a085
 http://5.255.90.252:5004/play/a061
 #EXTINF:-1,Taraf Tv
 http://5.255.90.252:5004/play/a06w
-#EXTINF:-1,U tv
-http://5.255.90.252:5004/play/a084
-#EXTINF:-1,U tv
-http://5.255.90.252:5004/play/a067
+
 #EXTINF:-1,Viasat Explore
 http://5.255.90.252:5004/play/a082
 #EXTINF:-1,Viasat History
