@@ -186,3 +186,167 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, WATAN HD
 http://51.15.242.185/hls/stream.m3u8
 =======================
+===========USSR===============
+#EXTINF:-1, Action-packed HD
+http://188.35.9.26:14050/udp/238.0.14.3:69000
+#EXTINF:-1, Ren TV International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:-1, Russian Comedy
+http://188.113.190.12/214/index.m3u8
+#EXTINF:-1, Russian Illusion
+http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8
+#EXTINF:-1, Soviet Cinema
+http://178.124.183.13:80/hls/CH_SOVKINO/bw1200000/playlist.m3u8
+#EXTINF:-1, STRK HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
+#EXTINF:-1,# EXTGRP : Cinema
+http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1,#EXTGRP : Cinema
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p= 87e0c783e9b31451
+#EXTINF:-1,#EXTGRP: Movie
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1,#EXTGRP : Movie
+http://188.35.9.11:2015
+#EXTINF:-1,#EXTGRP : Cinema
+http://v3.myowntv.org/content/35525/index.m3u8
+#EXTINF:-1,#EXTGRP : film
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,# EXTGRP : Cinema
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cinema
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,#EXTGRP : Movie
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1,#EXTGRP : Cinema
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP: Movie
+http://46.32.68.167/s/live/256/86.169.51.136/1/0.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cinema
+http://46.32.68.167/s/live/259/86.169.51.136/1/0.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version = 2
+#EXTINF:-1,#EXTGRP : Cinema
+http://46.32.68.167/s/live/260/86.169.51.136/1/0.m3u8
+#EXTINF:-1,#EXTGRP : Movie
+http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://46.32.68.167/s/live/254/86.169.51.136/1/0.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://46.32.68.167/s/live/265/86.169.51.136/1/0.m3u8
+#EXTINF:-1,#EXTGRP : Movie
+http://46.32.68.167/s/live/267/86.169.51.136/1/0.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version = 2
+#EXTINF:-1,#EXTGRP : Cinema
+http://46.32.68.167/s/live/253/86.169.51.136/1/0.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cinema
+http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version = 2
+#EXTINF:-1,#EXTGRP : Cinema
+http://86.57.225.245:7015/play/a00j
+#EXTINF:-1,#EXTGRP : Cinema
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1, Comedy HD
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1,TV 1000 Russkoe Kino
+http://109.248.236.41:4433/udp/238.1.1.44:1234
+#EXTINF:-1, TV 1000 Russkoe Kino
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/101/ind ..
+#EXTINF:-1, Russian detective
+http://ede960a1.ottv.info/iptv/7YD47MTECR4463/907/ind ..
+#EXTINF:-1,#EXTGRP : Cinema
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id= 1188 & p = 87e0c783e9b31451
+#EXTINF:-1,#EXTGRP : Cinema
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p = 12326fa256d9bf86
+#EXTINF:-1,#EXTGRP : Cinema
+http://86.57.225.245:7015/play/a00r
+#EXTINF:-1,#EXTGRP : Cinema
+http://86.57.225.245:7015/play/a005
+#EXTINF:-1,#EXTGRP : Cinema
+http://86.57.225.245:7015/play/a00p
+#EXTINF:-1,#EXTGRP : Cinema
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1,#EXTGRP : Cinema
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id= 1188 & p = 12326fa256d9bf86
+#EXTINF:-1,#EXTGRP : Cinema
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1,#EXTGRP : Cinema
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4 ..
+#EXTINF:-1,#EXTGRP : Cinema
+http://212.12.194.10/tv1000prem/live.m3u8
+#EXTINF:-1,#EXTGRP : Movie
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,#EXTGRP : Informative
+http://188.113.190.12/170/video.m3u8
+#EXTINF:-1,#EXTGRP : Informative
+http://178.124.183.5/hls/CH_GALAXY/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Informative
+http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cognitive
+http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cognitive
+http://109.248.236.41:4433/udp/238.1.1.124:1234
+#EXTINF:-1,#EXTGRP : Informative
+http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Cognitive
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,#EXTGRP: Informative
+http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
+#EXTINF:-1,#EXTGRP : Informative
+http://212.12.194.10/dtxhd/live.m3u8
+#EXTINF:-1,#EXTGRP : Informative
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,#EXTGRP: Cognitive
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,#EXTGRP : Informative
+http://212.12.194.10/tlc/live.m3u8
+#EXTINF:-1,#EXTGRP : Informative
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,#EXTGRP : Informative
+http://91.192.168.242:9091
+#EXTINF:-1,#EXTGRP : Cognitive
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:-1, First HD channel
+http://188.35.9.5:10005/stolen/103r/imposter.rar
+#EXTINF:-1, RTR Russia
+http://109.248.236.41:4433/udp/238.1.1.16:1234
+#EXTINF:-1,#EXTGRP : General
+http://109.248.236.41:4433/udp/238.1.1.16:1234
+#EXTINF:-1,#EXTGRP : General
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,#EXTGRP : General
+http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-n ..
+#EXTINF:-1,#EXTGRP : General
+http://46.32.68.167/s/live/807/86.169.51.136/0/0.m3u8
+#EXTINF:-1,#EXTGRP : General
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:-1, Izvestia
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+==================================
