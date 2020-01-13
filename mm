@@ -1,4 +1,71 @@
 #EXTM3U
+
+#EXTINF:-1 ,AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 ,AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 ,Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 ,Nat geo people HD ENGLISH 2
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1 ,Fish Channel
+http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:-1 ,Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 ,Canal 56
+http://5.39.65.105/hls/tvaxa.m3u8
+#EXTINF:-1 ,Animal Planet Live
+http://1-fss27-s0.streamhoster.com/lv_glc/_definst_/broadcast3/chunklist.m3u8
+#EXTINF:-1 ,Animal army
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 ,AD sport hd2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?v=3157566659
+#EXTINF:-1 ,Osn star world
+http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
+#EXTINF:-1 ,Osn star movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
+#EXTINF:-1 ,STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 ,Star Movies SD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1 ,ABU DHABI DRAMA
+http://adtv.ercdn.net/addrama/addrama_480p.m3u8
+#EXTINF:-1 ,STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 ,Star Movies SD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1 ,STAR WORLD HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1 ,Star World SD
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 ,OVC EXTRA
+Http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/1/prog_index.m3u8
+#EXTINF:-1 ,Nat geo wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1 ,Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 ,MBC3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Mbc max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Zee classic
+http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee tv
+http://216.144.250.174/Zee_TV_HD_o2/index.m3u8
+#EXTINF:-1 ,Wow cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239733
+#EXTINF:-1 ,Zee classic
+http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee Action
+http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee cinema
+http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,tvg-logo="http://www.encounters.co.za/wp-content/uploads/2017/05/al-jazeera-500x288.png" group-title="Qatar",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+========================
 #EXTINF:-1 group-title="Singapore/Malaysia",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 group-title="Singapore/Malaysia",8?? (Ch 8)
