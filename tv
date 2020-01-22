@@ -22,6 +22,8 @@ http://streamer61.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/
  
 #EXTINF:-1, Geo Super
 http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks.m3u8?
+#EXTINF:-1, Geo Super2
+https://streamer64.ebound.tv/geo/geosuper/chunks.m3u8?nimblesessionid=420668415
 #EXTINF:-1,Urdu TV Toronto (CA)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 -----------cartoon kid--------------
