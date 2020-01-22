@@ -27,9 +27,18 @@ https://streamer64.ebound.tv/geo/geosuper/chunks.m3u8?nimblesessionid=420668415
 #EXTINF:-1,Urdu TV Toronto (CA)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 
+
+
+
+#EXTINF:-1,tensports
+https://cdn6.mjunoon.tv:8087/web/tensports-159-2/live/159-2L/chunks.m3u8?nimblesessionid=1558730&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDY6NTE6NDkgUE0maGFzaF92YWx1ZT0zOXFLdEhXNVh5QlpmZXQ0TFZYbldRPT0mdmFsaWRtaW51dGVzPTE=
+
 #EXTINF:-1,Samaa tv
 https://cdn6.mjunoon.tv:8087/web/Samaa-157-3/live/157-3L/chunks.m3u8?nimblesessionid=1558661&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDY6NDY6MTMgUE0maGFzaF92YWx1ZT16MG13enNSYWFTS1k1WEJuYUg0YUJnPT0mdmFsaWRtaW51dGVzPTE=
 -----------cartoon kid--------------
+
+#EXTINF:-1 ,cartoon-network
+https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/live/87M/chunks.m3u8?nimblesessionid=193825752&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDY6NTU6MTcgUE0maGFzaF92YWx1ZT01RHdmaks1TWdISFhLMDNjcjBUQnlBPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 ,Baby tv
 https://stream.simpaisa.com/pitvlive2/baby_240p/chunklist_w1952785509.m3u8
 #EXTINF:-1 ,CARTOON NETWORK URDU
