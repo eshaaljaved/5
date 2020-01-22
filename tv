@@ -26,6 +26,9 @@ http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks
 https://streamer64.ebound.tv/geo/geosuper/chunks.m3u8?nimblesessionid=420668415
 #EXTINF:-1,Urdu TV Toronto (CA)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+#EXTINF:-1,Samaa tv
+https://cdn6.mjunoon.tv:8087/web/Samaa-157-3/live/157-3L/chunks.m3u8?nimblesessionid=1558661&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDY6NDY6MTMgUE0maGFzaF92YWx1ZT16MG13enNSYWFTS1k1WEJuYUg0YUJnPT0mdmFsaWRtaW51dGVzPTE=
 -----------cartoon kid--------------
 #EXTINF:-1 ,Baby tv
 https://stream.simpaisa.com/pitvlive2/baby_240p/chunklist_w1952785509.m3u8
