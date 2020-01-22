@@ -21,7 +21,10 @@ http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks
 #EXTINF:-1,Urdu TV Toronto (CA)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 -----------cartoon kid--------------
-
+#EXTINF:-1 ,CARTOON NETWORK URDU
+https://stream.simpaisa.com/pitvlive2/discoverykid_240p/chunklist_w1472878718.m3u8
+#EXTINF:-1 ,Discover Kidz
+https://stream.simpaisa.com/pitvlive2/discoverykid_240p/chunklist_w1472878718.m3u8
 #EXTINF:-1 ,Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 #EXTINF:-1 ,ANIPLUS
