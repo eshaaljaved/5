@@ -8,6 +8,8 @@ http://158.69.228.195:1935/digitalnew/myStream/chunklist_w313437140.m3u8?
 http://streamer61.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/chunks.m3u8?
 #EXTINF:-1,urdu1
 https://stream.simpaisa.com/pitvlive2/urdu2/chunklist_w1727217087.m3u8
+#EXTINF:-1,seetv
+https://stream.simpaisa.com/pitvlive2/seetv3_240p/chunklist_w2114659566.m3u8
  
 #EXTINF:-1, Geo Entertainment
 http://streamer64.ebound.tv/geo/geoentertainment/chunks.m3u8?nimblesessionid=385476564
@@ -23,10 +25,14 @@ http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks
 #EXTINF:-1,Urdu TV Toronto (CA)
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 -----------cartoon kid--------------
+#EXTINF:-1 ,Baby tv
+https://stream.simpaisa.com/pitvlive2/baby_240p/chunklist_w1952785509.m3u8
 #EXTINF:-1 ,CARTOON NETWORK URDU
 https://stream.simpaisa.com/pitvlive2/discoverykid_240p/chunklist_w1472878718.m3u8
 #EXTINF:-1 ,Discover Kidz
 https://stream.simpaisa.com/pitvlive2/discoverykid_240p/chunklist_w1472878718.m3u8
+#EXTINF:-1 ,CARTOON NETWORK ENGLISH
+https://stream.simpaisa.com/pitvlive2/cartooneng3_240p/chunklist_w1276101624.m3u8
 #EXTINF:-1 ,Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 #EXTINF:-1 ,ANIPLUS
@@ -119,6 +125,11 @@ http://61.58.60.230:9319/live/206.m3u8
 
 
 -------------------------------------------
+
+#EXTINF:-1,Discovery
+https://stream.simpaisa.com/pitvlive2/discovery_240p/chunklist_w1156357616.m3u8
+#EXTINF:-1,ANIMAL PLANET
+https://stream.simpaisa.com/pitvlive2/animal_240p/chunklist_w967164667.m3u8
 
 #EXTINF:-1,Prime Canada TV (CA)
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
