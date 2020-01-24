@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1, HD HUM TV
+http://ccdn2.jazztv.pk:8085/cast/136-3M/chunks.m3u8
+#EXTINF:-1, Arydigita
+http://158.69.228.195:1935/digitalnew/myStream/chunklist_w313437140.m3u8?
+#EXTINF:-1,Geo_Kahani 
+http://streamer61.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/chunks.m3u8?
+#EXTINF:-1,urdu1
+https://stream.simpaisa.com/pitvlive2/urdu2/chunklist_w1727217087.m3u8
+#EXTINF:-1,seetv
+https://stream.simpaisa.com/pitvlive2/seetv3_240p/chunklist_w2114659566.m3u8
+ 
+#EXTINF:-1, Geo Entertainment
+http://streamer64.ebound.tv/geo/geoentertainment/chunks.m3u8?nimblesessionid=385476564
+
+#EXTINF:-1,Geo_Kahani
+http://streamer61.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/chunks.m3u8?
 #EXTINF:-1 ,SPORT 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 ,AD SPORT 1
