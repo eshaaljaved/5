@@ -1956,3 +1956,9 @@ https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:0, tvg-logo="https://freebeacon.com/wp-content/uploads/2013/09/VOA.jpg" group-title="USA",VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 --------------------------------------
+#EXTINF:-1,REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,DOBALL 1
+http://stream.doball.com:8080/hls/ch1.m3u8
+#EXTINF:-1,FOX SPORT 1
+http://45.58.62.92:8080
