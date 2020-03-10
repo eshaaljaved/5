@@ -1,5 +1,16 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1,FX
+http://54.39.104.194:8081/bunker/fx_42/chunks.m3u8
+#EXTINF:-1,CINEMAX
+http://54.39.104.194:8081/bunker/CineMax_40/chunks.m3u8
+#EXTINF:-1,UNIVERSAL
+http://54.39.104.194:8081/bunker/Universal_44/chunks.m3u8
+#EXTINF:-1,SPACE
+http://54.39.104.194:8081/bunker/Space_25/chunks.m3u8
+#EXTINF:-1,AXN
+http://54.39.104.194:8081/bunker/Axn_51/chunks.m3u8
+#EXTINF:-1,HISTORY CHANEL
+http://54.39.104.194:8081/bunker/History_49/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", Anal
