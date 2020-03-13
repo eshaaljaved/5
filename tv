@@ -1,7 +1,10 @@
 
 #EXTINF:-1,HUM TV HD
 https://stream.simpaisa.com/pitvlive2/humtvnew3/chunklist_w264668695.m3u8?
-
+#EXTINF:0,CARTOON NETWORK
+http://4kiptv.top:25461/pXE6plswg1/1sWoC3GO8z/7716
+#EXTINF:0,HUM TV HD
+http://4kiptv.top:25461/pXE6plswg1/1sWoC3GO8z/7717
 #EXTINF:-1,Geo_Kahani
 http://streamer61.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/chunks.m3u8?
 #EXTINF:-1,seetv
@@ -10,6 +13,38 @@ https://stream.simpaisa.com/pitvlive2/seetv3_240p/chunklist_w2114659566.m3u8
 http://streamer61.eboundservices.com/geo/geokahani_abr/geo/geokahani_master_sub/chunks.m3u8?
 #EXTINF:-1,Geo Entertainment
 http://streamer62.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8?
+#EXTINF:0,discovery channel
+http://4kiptv.top:25461/pXE6plswg1/1sWoC3GO8z/7728
+#EXTINF:0,BABY TV
+http://4kiptv.top:25461/pXE6plswg1/1sWoC3GO8z/7729
+#EXTINF:0,ARY Family
+http://4kiptv.top:25461/pXE6plswg1/1sWoC3GO8z/7733
+#EXTINF:0,Geo TV
+http://4kiptv.top:25461/pXE6plswg1/1sWoC3GO8z/7734
+#EXTINF:0,SEETV HD
+http://4kiptv.top:25461/pXE6plswg1/1sWoC3GO8z/7740
+#EXTINF:0,UK-SD: HUM EUROPE
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2726
+#EXTINF:0,UK-SD: GEO NEWS
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2724
+#EXTINF:0,UK-SD: samaa uk
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2723
+#EXTINF:0,UK-SD: B4U-MOVIES
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2721
+#EXTINF:0,UK-SD: ARY FAMILY
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2720
+#EXTINF:0,(UK): Discovery Turbo SD
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2628
+#EXTINF:0,(UK): Investigation Discovery SD
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2627
+#EXTINF:0,(UK): Discovery Shed SD
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2626
+#EXTINF:0,(UK): Nick Junior SD
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2613
+#EXTINF:0,(UK): Nick JR Too SD
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2612
+#EXTINF:0,(UK): Cartoonito SD
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2611
 #EXTINF:-1, Geo Super
 http://streamer64.eboundservices.com/geo/geosuper_abr/geo/geosuper_master/chunks.m3u8?
 #EXTINF:-1,Urdu TV Toronto (CA)
