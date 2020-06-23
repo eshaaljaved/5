@@ -1,6 +1,13 @@
 
 #EXTINF:-1,HUM TV HD
 https://stream.simpaisa.com/pitvlive2/humtvnew3/chunklist_w264668695.m3u8?
+
+#EXTINF:0,CARTOON NETWORK youtube
+https://www.youtube.com/watch?v=hBHrvfoikdg&t=20s
+
+
+
+
 #EXTINF:0,CARTOON NETWORK
 http://4kiptv.top:25461/pXE6plswg1/1sWoC3GO8z/7716
 #EXTINF:0,HUM TV HD
