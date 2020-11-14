@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+	<title>Playlist</title>
+	<trackList>
+	<track>
+			<location>acestream://f10e68ea1a1489b672476511ee8b44b267a96eab/</location>
+			<title>Come.Play.2020.HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		
+		<track>
+			<location>acestream://89827db36931a54f3edb037d63f5c6c93a3a9485/</location>
+			<title>TLC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://d9359dd5683a6fc91544f9639f12d3bea608ae26/</location>
+			<title>TLC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4efbdf320eda3214d65d83fec0eb7599938344ec/</location>
+			<title> TLC Full HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://0b3aaab1021963e92cd59cd516484f310666b8de/</location>
+			<title>TLC TR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://dc6ac6c76b401732766a367b7c45dd73c973693f/</location>
+			<title>TLC HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://ae5295de94a8a81a1c3175230d6e45f7ff9c1de4/</location>
+			<title>TLC Россия HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://d288e303032c9f4fa27d56d2ebe4a7ef40b13d5f/</location>
+			<title>TLC Россия</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://1b2e5161d283512ff3f726b1afc26c93fe16ef75/</location>
+			<title>HBO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://58f8d57b46502d2ebc037ff009eb5540f75adc7e/</location>
+			<title>HBO 2 (SAP)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://df5745d5e6eff7e0bb7516ea623830561137e5b3/</location>
+			<title> HBO 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://49ae6a98b2d1fc3f9e73201387fa15e8392ed164/</location>
+			<title>HBO 2 International</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://c06605d076bb33a0fccf1bced7f412c0504b26ca/</location>
+			<title>HBO2 [360p]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://8d16f0f1ac8bbc8ed472dbbc495a19912e6cc3e7/</location>
+			<title> HBO 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://5c431667f6fdf928eff35d4f9b728b98a7bf2fde/</location>
+			<title>HBO2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://534c8eb4d348710da62b4f45f715acc310155dc2/</location>
+			<title>HBO3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://cf7bff731d18e978dc2618c8637dc4489857f745/</location>
+			<title>index.m3u8</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://8cc1ece1b32bad72f24be9bd105261e72e0679e9/</location>
+			<title>А HBO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://23953b3ef6b12d15742f0a161034f708f7d0d9f5/</location>
+			<title>SONY TEN 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://ba5ecdc5f7738e4b9887cb9761de02e6a9479ea0/</location>
+			<title>SONY TV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://8789f606f62a64354d6612dabeef0863d3e2bda5/</location>
+			<title>Sony Channel</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://e4b74f88e27636402ff04a45103942c73404dda4/</location>
+			<title>Sony Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://3f69f8c81765a960868f5099f54a98fe375006f1/</location>
+			<title>Sony Sci Fi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://d3fc3d09c7411edb7964b0c16c44335008743223/</location>
+			<title>Sony Sci-Fi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://461324bfac9f58bfab886fb23e94756abb48c12b/</location>
+			<title>Sony Sci-Fi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://a73d0a66af83e2431a1b3d677ccfc274d4ca186b/</location>
+			<title>Sony Sci-Fi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4425cf53aa09a8282c0b8e753d9ef7a1b74c6559/</location>
+			<title>Sony Turbo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4dcdaa1e8b98631c915af450e0c7725ae0505bae/</location>
+			<title>Sony Turbo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://de0881f811225a9f784784b4340d106aa3f57694/</location>
+			<title>Sony Turbo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://48583fa1b25fa33d7525c4a9b643d59ad6d18928/</location>
+			<title>Sony Turbo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		
+		
+		<track>
+			<location>acestream://5d9afb11bf8802642d2fcfb04861dc57da76f1d0/</location>
+			<title>24 Kitchen HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://5d9afb11bf8802642d2fcfb04861dc57da76f1d0/</location>
+			<title>24 Kitchen HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://7ddc0bd9124040c55e2b42c290e470fb9d15b97f/</location>
+			<title>26 Argentina</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://855be0ecafaa96656a71cc63df7f80a206b773d7/</location>
+			<title>5TV Corrientes</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://e23e5ef7dee33f16ccffb501adca8d78fcfd6544/</location>
+			<title>Al Jazeera Arabic</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://beaf3e3671f5e214924903b7c43964b8442b331a/</location>
+			<title>BR Fernsehen Nord HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://2b4c563f38608d87706c6ab55c41ae44a53d2b7d/</location>
+			<title>BR FERNSEHEN</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://42fa09b3170658c96a91087ea93066e5e8f83fbd/</location>
+			<title>CGTN中国环球电视网 Documentary</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://cb7d24a898221c572295ac2370c843109234a877/</location>
+			<title>Pure Taboo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		
+	</trackList>
+	
+	</extension>
+</playlist>
