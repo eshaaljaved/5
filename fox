@@ -1,0 +1,46 @@
+
+#EXTM3U
+#EXTINF:0, US WWE 
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:0, INT Travel HD 
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:0, CDO 
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:0, Atacama TV 
+https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+#EXTINF:0, Olympic Channel (INT) 
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:0, RedBull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:0, VC ONLINE HD 
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:0, KO - Arirang News 
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0, US WWE network
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1,QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,QVC UK +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1,QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,Sky News (Opt-1)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,CGTN English (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1,CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:-1,DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1,Flow Sports
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1,France 24 English (Opt-1)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,Bloomberg TV UK
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
