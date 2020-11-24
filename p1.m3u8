@@ -116,11 +116,24 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
 #EXTINF:0,Sky News Australia
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:0,RT new
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 
+#EXTINF:0,RT Documentary
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+
+#EXTINF:0,UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+
+#EXTINF:0,World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:0,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
-
+#EXTINF:0,WWE
+http://cdnak10.cast4u.info/channels/3/10803.m3u8
 
 #EXTINF:0,& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
@@ -131,13 +144,22 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:0,BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
+#EXTINF:0,ZEE CINEMA
+https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?silma.m3u8
 
+#EXTINF:0,Zee Mundo Tv
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:0,ZEE SMILE
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
+#EXTINF:0,
+
+#EXTINF:0,
 
 #EXTINF:0,BOLLYWOOD
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 
-#EXTINF:0,
-
+#EXTINF:0,Zee mundo (India)
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:0,Bollywood Now
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
@@ -165,9 +187,47 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:0,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-#EXTINF:0,HBO
+#EXTINF:0,HBO  Movies
 http://136.243.177.164/HBO/playlist.m3u8
+
+#EXTINF:0,WB Movies
+http://203.154.243.89:11205/
 #EXTINF:0,
+
+#EXTINF:0,ANIMAL PLANET HD
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+
+#EXTINF:0,FOOD CHANNEL
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
+
+#EXTINF:0,Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+
+#EXTINF:0,ZEE BOLLYWOOD
+http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
+
+#EXTINF:0,Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:0,Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+
+#EXTINF:0,Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
+#EXTINF:0,WB tv
+http://203.154.243.89:11205/
+
+
+#EXTINF:0,Sony Movies
+http://51.52.156.22:8888/http/009
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+
 
 #EXTINF:0,
 
@@ -177,7 +237,6 @@ http://136.243.177.164/HBO/playlist.m3u8
 
 #EXTINF:0,
 
-#EXTINF:0,
 
 #EXTINF:0,
 
@@ -186,4 +245,14 @@ http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:0,
 
 #EXTINF:0,
+
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
 
