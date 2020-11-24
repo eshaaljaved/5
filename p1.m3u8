@@ -68,8 +68,10 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:0,Apna TV
 
 https://cdn7.mjunoon.tv:8087/web/ApnaChannel-134/live/134M/playlist.m3u8?nimblesessionid=6967552&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMCA1OjU5OjAxIFBNJmhhc2hfdmFsdWU9S3NMYUsra2pqZ0pKTVpCNE5LYjZ2dz09JnZhbGlkbWludXRlcz0x
-#EXTINF:0,
 
+#EXTINF:0,SeeTv
+
+https://cdn5.mjunoon.tv:8087/web/SeeTV-156/live/156M/chunks.m3u8?nimblesessionid=302811550&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMCA2OjMxOjEzIFBNJmhhc2hfdmFsdWU9QThCbmQwTlJOKytKSUVXaC9KYlhaZz09JnZhbGlkbWludXRlcz0x
 #EXTINF:0,
 
 #EXTINF:0,
