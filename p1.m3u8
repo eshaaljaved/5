@@ -75,6 +75,30 @@ https://cdn5.mjunoon.tv:8087/web/SeeTV-156/live/156M/chunks.m3u8?nimblesessionid
 
 #EXTINF:0,SeeTv 2
 https://streams.simpaisa.com:8443/pitvlive3/seetv.smil/playlist.m3u8
+
+#EXTINF:0,Aaj Tv
+
+https://streams.simpaisa.com:8443/pitvlive3/aajent.smil/playlist.m3u8?
+
+#EXTINF:0,DW news
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?
+
+#EXTINF:0,Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8?
+
+#EXTINF:0,TRT world
+https://tv-trtworld.live.trt.com.tr/master.m3u8?
+
+#EXTINF:0,CNN news
+https://streams.simpaisa.com:8443/pitvlive3/cnn.smil/playlist.m3u8?
+
+#EXTINF:0,Voa if Ammerica
+https://streams.simpaisa.com:8443/pitvlive3/voa.smil/playlist.m3u8?
+
+#EXTINF:0,BBC news
+https://streams.simpaisa.com:8443/pitvlive3/bbcnews.smil/playlist.m3u8?
+#EXTINF:0,
+
 #EXTINF:0,
 
 #EXTINF:0,
