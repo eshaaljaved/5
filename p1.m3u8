@@ -72,8 +72,9 @@ https://cdn7.mjunoon.tv:8087/web/ApnaChannel-134/live/134M/playlist.m3u8?nimbles
 #EXTINF:0,SeeTv
 
 https://cdn5.mjunoon.tv:8087/web/SeeTV-156/live/156M/chunks.m3u8?nimblesessionid=302811550&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMCA2OjMxOjEzIFBNJmhhc2hfdmFsdWU9QThCbmQwTlJOKytKSUVXaC9KYlhaZz09JnZhbGlkbWludXRlcz0x
-#EXTINF:0,
 
+#EXTINF:0,SeeTv 2
+https://streams.simpaisa.com:8443/pitvlive3/seetv.smil/playlist.m3u8
 #EXTINF:0,
 
 #EXTINF:0,
