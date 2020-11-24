@@ -9,9 +9,13 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196
 
 #EXTINF:0,GEO ENT
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
 #EXTINF:0,Expressdigital1
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
 
+
+#EXTINF:0,Geo Super
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
 
 #EXTINF:0,Aplus
 https://streams.simpaisa.com:8443/pitvlive3/aplus.smil/playlist.m3u8
