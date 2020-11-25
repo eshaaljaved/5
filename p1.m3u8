@@ -30,7 +30,68 @@ https://streams.simpaisa.com:8443/tap/smil:humtvnewone.smil/playlist.m3u8
 #EXTINF:0,Tv One
 https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
 
+#EXTINF:-1,Peace Tv Urdu
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,zeecinemahd
+https://streams.simpaisa.com:8443/pitvlive3/zeecinemahd.smil/playlist.m3u8?
+#EXTINF:-1,Zee Bollwood
+https://streams.simpaisa.com:8443/pitvlive3/zeebollywood.smil/playlist.m3u8?
+#EXTINF:-1,Zee Action
+https://streams.simpaisa.com:8443/pitvlive3/zeeaction.smil/playlist.m3u8?
+#EXTINF:-1,Dawn News
+https://streams.simpaisa.com:8443/pitvlive3/dawnnews.smil/playlist.m3u8?
+#EXTINF:-1, Samma news
+https://streams.simpaisa.com:8443/pitvlive3/saamanews.smil/playlist.m3u8?
+#EXTINF:-1, Express News
+https://streams.simpaisa.com:8443/pitvlive3/expressnews.smil/playlist.m3u8?
+#EXTINF:-1,Q TV
+https://stream.arylive.com/QtvLive/index.m3u8
+#EXTINF:-1, Discovery
+https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8?
+#EXTINF:-1,cartooneng ENG
+https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/playlist.m3u8?
+#EXTINF:-1, cartoonhindi
+https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/playlist.m3u8?
+#EXTINF:-1, Express News
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w708231221.m3u8
+#EXTINF:-1,Discovery
+https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8?
+#EXTINF:-1,Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,Ibaadat tv
+http://livechannel.shemaroome.com/linearplayout/ibaadat-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1,Subrang TV (USA)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
+#EXTINF:-1,Bloomberg (US)
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,Bloomberg TV (Asia|EN)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1,Expressent
+https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8?u8
+#EXTINF:-1,Tvone
+https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8?
 
+#EXTINF:-1,Hum sitara
+https://streams.simpaisa.com:8443/pitvlive3/sitaraynew.smil/playlist.m3u8?
+#EXTINF:-1,Babytv
+https://streams.simpaisa.com:8443/pitvlive3/babytv.smil/playlist.m3u8?
+#EXTINF:-1,Filmworld
+https://streams.simpaisa.com:8443/pitvlive3/filmworld.smil/playlist.m3u8?8
+#EXTINF:-1,CNNnews
+https://streams.simpaisa.com:8443/pitvlive3/cnn.smil/playlist.m3u8?
+#EXTINF:-1,Dwstream
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?
+
+
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8?
+#EXTINF:-1,Tlctv
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:-1,Trtcocuk
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,ABN kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 #EXTINF:0,Playmax
 https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/playlist.m3u8?
