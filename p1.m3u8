@@ -6,10 +6,13 @@ https://stream.arylive.com/ZindagiLive/playlist.m3u8
 
 #EXTINF:0,Arydigital 
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
+#EXTINF:0,ARY FAMILY
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:0,GEO ENT
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
+#EXTINF:0,Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:0,Expressdigital1
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
 
@@ -52,6 +55,61 @@ https://streams.simpaisa.com:8443/pitvlive3/discovery.smil/playlist.m3u8?
 https://streams.simpaisa.com:8443/pitvlive3/cartooneng.smil/playlist.m3u8?
 #EXTINF:-1, cartoonhindi
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/playlist.m3u8?
+
+#EXTINF:-1,3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1,ChuCHu TV
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1,Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
+
+#EXTINF:-1,Cbeebies uk
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1,TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1,ASIA: CARTOON NETWORK HD
+http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
+
+#EXTINF:-1,CARTOON NETWORK
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+
+#EXTINF:-1,Ketnet Junior
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, Express News
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w708231221.m3u8
 #EXTINF:-1,Discovery
@@ -199,12 +257,57 @@ http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:0,& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
+#EXTINF:0,TVS Western Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:0,TVS Drive In Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+
+#EXTINF:0,TVS Nostalgia Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+
+#EXTINF:0,TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+
+#EXTINF:0,STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
+#EXTINF:0,Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:0,Movies Kingdom
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+
+#EXTINF:0,Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+
+
+
+
+
+
 #EXTINF:0,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 
 #EXTINF:0,BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
+
+#EXTINF:0,MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:0,ZEE CINEMA
 https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?silma.m3u8
 
@@ -212,9 +315,34 @@ https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?silma.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:0,ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
+#EXTINF:0,MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0,National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0,National Geography
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,FOX 
+http://5.135.92.133:52841/out/u/372_1.m3u8
+#EXTINF:0,Fox Life
+https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8
+
+#EXTINF:0,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
 #EXTINF:0,
 
 #EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+
+
+
+
 
 #EXTINF:0,BOLLYWOOD
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
@@ -312,6 +440,31 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 
 
+
+#EXTINF:0,Natural Tv
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+
+#EXTINF:0,Tlc TURKMEN
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:0,A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:0,
+
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
 
 #EXTINF:0,
 
