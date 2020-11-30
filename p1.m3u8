@@ -29,7 +29,8 @@ https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8
 #EXTINF:0,Humtv
 
 https://streams.simpaisa.com:8443/tap/smil:humtvnewone.smil/playlist.m3u8
-
+#EXTINF:-1,Hum News
+http://95.211.211.168/live/humnews0189/playlist.m3u8
 #EXTINF:0,Tv One
 https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
 
@@ -64,7 +65,8 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 
 #EXTINF:-1,Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-
+#EXTINF:-1,Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 
 #EXTINF:-1,Cbeebies uk
 http://51.52.156.22:8888/http/003
@@ -207,7 +209,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8?
 
 #EXTINF:0,TRT world
 https://tv-trtworld.live.trt.com.tr/master.m3u8?
-
+#EXTINF:-1,ABC News
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-p.m3u8
 #EXTINF:0,CNN news
 https://streams.simpaisa.com:8443/pitvlive3/cnn.smil/playlist.m3u8?
 
@@ -222,7 +225,12 @@ http://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:0,CGTN Documentary
 http://live.cgtn.com/1000d/prog_index.m3u8
-
+#EXTINF:-1,Jewish Life TV
+https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1,Law & Crime
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1,Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 #EXTINF:0,Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
@@ -249,18 +257,27 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:0,RT Documentary
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1,Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1,Travel Guid-TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1,Travel HD BG
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1,Silence TV WORLD HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:0,UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
-#EXTINF:0,World Of Free Sports TV
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1,MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:0,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0,Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-
+#EXTINF:-1,100 automoto.TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0,WWE
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
 
@@ -294,7 +311,14 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 #EXTINF:0,
 
 #EXTINF:0,
-
+#EXTINF:-1,Discovery Science
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1,Discovery Science HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8
+#EXTINF:-1,National Geographic HD
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+#EXTINF:-1,National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:0,
 
 #EXTINF:0,
@@ -318,7 +342,8 @@ https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklis
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:0,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-
+#EXTINF:-1,ME: ZEE TV HD
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:0,BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
@@ -377,7 +402,8 @@ http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
 
 #EXTINF:0,Cine Voice
 https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-
+#EXTINF:-1,Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:0,Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
@@ -392,7 +418,10 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 #EXTINF:0,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
+#EXTINF:-1,13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
+#EXTINF:-1,13 Max HD
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 #EXTINF:0,HBO  Movies
 http://136.243.177.164/HBO/playlist.m3u8
 
@@ -427,7 +456,8 @@ http://203.154.243.89:11205/
 
 #EXTINF:0,Sony Movies
 http://51.52.156.22:8888/http/009
-
+#EXTINF:-1,MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-0,Dubai One elahmed
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:0,
