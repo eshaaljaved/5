@@ -228,8 +228,10 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_inde
 
 #EXTINF:-1 tvg-id="eng" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2014/11/QVC-logo-wordmark-880x660.png" group-title="ENG"QVC
 http://ios-stream.qvc.de/qvc.m3u8
-
-
+#EXTINF:-1,Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1,PTV Sports (2)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,Jewelry Television
 https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 #EXTINF:-1,The Shopping Channel
@@ -379,7 +381,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
 #EXTINF:0,Australia Channel
-
+#EXTINF:-1,ITV1 UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
 #EXTINF:0,France 24 English
