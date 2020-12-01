@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:1,
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ARY_Zindagi.jpg/revision/latest/scale-to-width-down/200?cb=20140511163352" group-title="PAKISTAN",Ary zindgilive
@@ -14,13 +12,13 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196
 
 https://streams.simpaisa.com:8443/tap/smil:humtvnewone.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.humsitaray.tv/" group-title="PAKISTAN",HumSitaray
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.humsitaray.tv/wp-content/uploads/2017/01/HS-Logo.png" group-title="PAKISTAN",HumSitaray
 
 https://streams.simpaisa.com:8443/pitvlive3/sitaraynew.smil/playlist.m3u8?
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN",ARY FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/12/ARY-Family.png" group-title="PAKISTAN",ARY FAMILY
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 
 
@@ -31,8 +29,55 @@ http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="PAKISTAN",Geo Super
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/a_plus.jpg" group-title="PAKISTAN",Aplus
+https://streams.simpaisa.com:8443/pitvlive3/aplus.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/express_entertainment.jpg" group-title="PAKISTAN",Express-entertainment
+https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.humnews.pk/wp-content/uploads/2018/01/Hum-Logo-urdu.png" group-title="PAKISTAN",Hum News
+http://95.211.211.168/live/humnews0189/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Unramed.png/220px-Unramed.png" group-title="PAKISTAN",Tv One
+https://streams.simpaisa.com:8443/pitvlive3/tvone.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Play_TV.jpg/220px-Play_TV.jpg" group-title="PAKISTAN",Play Tv
+https://streams.simpaisa.com:8443/pitvlive3/playmax.smil/playlist.m3u8?
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/film_world_pk.png" group-title="PAKISTAN",Filmworld
+https://streams.simpaisa.com:8443/pitvlive3/filmworld.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTAN", Express News
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w708231221.m3u8
 
 
 
