@@ -50,6 +50,9 @@ https://streams.simpaisa.com:8443/pitvlive3/aplus.smil/playlist.m3u8
 https://streams.simpaisa.com:8443/pitvlive3/expressent.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hum-masala.png" group-title="PAKISTAN",Hum Masala
+
+https://streams.simpaisa.com:8443/pitvlive3/masala.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.humnews.pk/wp-content/uploads/2018/01/Hum-Logo-urdu.png" group-title="PAKISTAN",Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8
 
@@ -111,6 +114,11 @@ https://streams.simpaisa.com:8443/pitvlive3/saamanews.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="eng" tvg-name="" tvg-logo="https://logodix.com/logo/1646788.jpg" group-title="PAKISTAN",Babytv
 https://streams.simpaisa.com:8443/pitvlive3/babytv.smil/playlist.m3u8?
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_pk.png" group-title="PAKISTAN",A tv
+https://streams.simpaisa.com:8443/pitvlive3/atv.smil/playlist.m3u8?
 
 
 
