@@ -251,9 +251,46 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1,Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+...................................spor 2017 unlimted.............................
 
-
-
+#EXTINF:-1,MyHD:Fox.Movies
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1505
+#EXTINF:-1,MyHD:Fox.Movies.Action
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1223
+#EXTINF:-1,MyHD:Fox.Movie.Family
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1140
+#EXTINF:-1,MyHD:Fox.Crime
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4870
+#EXTINF:-1,MyHD:Fox.Life
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4869
+#EXTINF:-1,MyHD:FOX.Rewayat
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4868
+#EXTINF:-1,MyHD:FX
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1423
+#EXTINF:-1,MyHD:MY.Cinema
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4865
+#EXTINF:-1,MyHD:Star.Movie
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
+#EXTINF:-1,MyHD:Star.World
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4862
+#EXTINF:-1,MyHD:Film.Box
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4863
+#EXTINF:-1,MyHD:Discovery
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4875
+#EXTINF:-1,MyHD:Discovery.SC
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4874
+#EXTINF:-1,MyHD:Animal.Planet
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4878
+#EXTINF:-1,MyHD:Douc.Box
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4873
+#EXTINF:-1,MyHD:Fight.Box
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4872
+#EXTINF:-1,MyHD:Gulli.Arabic
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4867
+#EXTINF:-1,MyHD:Outdoor
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4860
+#EXTINF:-1,MyHD:Fox
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4864
 ...........................................................
 #EXTINF:-1,
 
