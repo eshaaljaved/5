@@ -228,6 +228,10 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_inde
 
 #EXTINF:-1 tvg-id="eng" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2014/11/QVC-logo-wordmark-880x660.png" group-title="ENG"QVC
 http://ios-stream.qvc.de/qvc.m3u8
+
+#EXTINF:-1,HBO Speed 63 kb/s1M
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46965?checkedby:iptvcat.com 
+
 #EXTINF:-1,Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1,PTV Sports (2)
