@@ -457,10 +457,8 @@
 				<vlc:option>deinterlace-mode=bob</vlc:option>
 			</extension>
 		</track>
-	</trackList>
 	
-	
-	<trackList>
+
 		<track>
 			<location>af93e5bee63a1a505d44c5c4a241249db99f4438</location>
 			<title>The.Conjuring.The.Devil.Made.Me.Do.It.2021.1080p.WEBRip.x264-RARBG.mp4</title>
