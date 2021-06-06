@@ -457,10 +457,9 @@
 				<vlc:option>deinterlace-mode=bob</vlc:option>
 			</extension>
 		</track>
-	
 
 		<track>
-			<location>af93e5bee63a1a505d44c5c4a241249db99f4438</location>
+			<location>acestream://af93e5bee63a1a505d44c5c4a241249db99f4438/</location>
 			<title>The.Conjuring.The.Devil.Made.Me.Do.It.2021.1080p.WEBRip.x264-RARBG.mp4</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
@@ -470,7 +469,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>21276ae8e46939298ab7a565982266818ae244e8</location>
+			<location>acestream://21276ae8e46939298ab7a565982266818ae244e8/</location>
 			<title>Infected.2021.720p.WEBRip.800MB.x264-GalaxyRG</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
@@ -480,7 +479,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>2ed5c0ee01a5d36599ed8e73a93fa2f5053dbc2f</location>
+			<location>acestream://2ed5c0ee01a5d36599ed8e73a93fa2f5053dbc2f/</location>
 			<title>Saltwater.The.Battle.for.Ramree.Island.2021.720p.WEBRip.800MB.x264-GalaxyRG</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
